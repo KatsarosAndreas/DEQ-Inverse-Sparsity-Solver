@@ -7,12 +7,6 @@
 
 My thesis explores the intersection of classical optimization theory and modern deep learning for solving inverse problems in signal reconstruction. By leveraging Deep Equilibrium Models (DEQs), spectral normalization techniques, symmetric loss functions and sparsity theory, this work addresses critical challenges in compressed sensing that directly impact telecommunications, autonomous systems, computer vision, and industrial automation.
 
-
- •Signal Recovery from Sparse Data: Achieved high-fidelity signal reconstruction from 4×/8× undersampled measurements (Compressed Sensing), comparing with classical iterative baselines and unrolled networks. Pretrained and validated on a custom preprocessed fastMRI dataset provided by Facebook (Meta).
- •Designed a Deep Equilibrium (DEQ) framework to solve ill-posed inverse problems, integrating a learned DnCNN denoiser as a regularizer within proximal gradient optimization schemes (DE-Prox).
- •Complex-domain signal reconstruction: Engineered physics-aware loss functions (Magnitude/Phase-aware, ⊥-loss) to optimize convergence and minimize spectral bias.
- •Implementation & reproducibility: PyTorch-based experiments (GPU) and systematic hyperparameter comparisons for convergence and generalization.
-
 ---
 
 ### The Problem We're Solving
