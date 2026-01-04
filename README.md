@@ -1,6 +1,6 @@
 # Advanced Machine Learning & Signal Processing: Deep Equilibrium Architectures for Inverse Problems in Signal Reconstruction
 
-**Master's Thesis *
+**Master's Thesis**
 **Deep Equilibrium solver for ill-posed inverse problems, leveraging signal sparsity and implicit differentiation for memory-efficient reconstruction.**
 
 ## Overview
