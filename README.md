@@ -211,9 +211,8 @@ train_loader = DataLoader(dataset, batch_size=4, shuffle=True)
 
 **2. ⊥-loss: A Symmetric Loss Function for Complex-Valued Reconstruction**  
 *Maarten L. Terpstra et al. (2022)*  
-- Identified magnitude bias in standard L2 complex loss
 - Proposed phase-magnitude decoupling via scalar rejection
-- Showed 10-15% improvement in reconstruction metrics
+
 
 ---
 
