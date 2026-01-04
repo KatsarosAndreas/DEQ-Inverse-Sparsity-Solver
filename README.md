@@ -14,7 +14,7 @@ My thesis explores the intersection of classical optimization theory and modern 
 
 
 ### The Problem We're Solving
- **how do we reconstruct high-fidelity signals from severely undersampled or corrupted measurements?**
+ **How do we reconstruct high-fidelity signals from severely undersampled or corrupted measurements?**
 
 Traditional approaches require sampling at twice the signal's bandwidth (Nyquist-Shannon theorem), but modern applications demand real-time processing with limited bandwidth, storage, and power constraints. This thesis tackles this problem through:
 
