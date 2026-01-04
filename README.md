@@ -5,7 +5,7 @@
 
 ## Overview
 
-**Image Reconstruction**
+**About thesis**
 
 
 My thesis explores the intersection of classical optimization theory and modern deep learning for solving inverse problems in signal reconstruction. By leveraging Deep Equilibrium Models (DEQs), spectral normalization techniques, symmetric loss functions and sparsity theory, this work addresses critical challenges in compressed sensing , focusing on MRI reconstruction images.
