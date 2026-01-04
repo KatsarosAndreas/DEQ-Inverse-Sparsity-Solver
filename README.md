@@ -23,7 +23,11 @@ Traditional approaches require sampling at twice the signal's bandwidth (Nyquist
 - **Fixed-Point Theory** - Mathematically rigorous convergence guarantees
 - **Perpendicular Loss Functions** - Symmetric error distributions for complex-valued signals
 
-**Signal processing concepts applied:** Fourier domain undersampling, k-space geometry, aliasing artifact formation, and the difference between k-space cropping (low-pass filtering) vs. image-space cropping.
+
+
+
+Signal processing concepts applied: Fourier domain undersampling, k-space geometry, aliasing artifact formation, and the difference between k-space cropping (low-pass filtering) vs. image-space cropping.
+
 ---
 
 ## Key Contributions & Technical Innovation
@@ -85,7 +89,7 @@ To guarantee convergence of the equilibrium solver, the regularizer network must
 
 ---
 
-## 🏗️ Architecture & Components
+## Architecture & Components
 
 ### Core Models
 
@@ -239,14 +243,6 @@ The techniques developed here open several promising research directions:
 - Full 3D volumetric processing (current implementation processes 2D slices)
 - Multi-scale equilibrium models with hierarchical fixed-points
 - Learnable step-sizes and iteration-dependent regularizers
-- Uncertainty quantification through Bayesian formulations
-
-**Application Domains**
-- Weather prediction from sparse meteorological sensors
-- Seismic imaging for geophysical exploration
-- Financial time-series reconstruction and forecasting
-- Power grid state estimation from phasor measurements
-- Video frame interpolation and super-resolution
 
 ---
 
