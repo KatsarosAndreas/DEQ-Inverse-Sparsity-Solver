@@ -3,10 +3,11 @@
 **Master's Thesis**
 **Deep Equilibrium solver for ill-posed inverse problems, leveraging signal sparsity and implicit differentiation for memory-efficient reconstruction.**
 
-# Overview
+## Overview
 
-My thesis explores the intersection of classical optimization theory and modern deep learning for solving inverse problems in signal reconstruction. By leveraging Deep Equilibrium Models (DEQs), spectral normalization techniques, symmetric loss functions and sparsity theory, this work addresses critical challenges in compressed sensing , focusing on MRI reconstruction images.
+###My thesis explores the intersection of classical optimization theory and modern deep learning for solving inverse problems in signal reconstruction. By leveraging Deep Equilibrium Models (DEQs), spectral normalization techniques, symmetric loss functions and sparsity theory, this work addresses critical challenges in compressed sensing , focusing on MRI reconstruction images.
 ---
+
 
 ### The Problem We're Solving
  **how do we reconstruct high-fidelity signals from severely undersampled or corrupted measurements?**
