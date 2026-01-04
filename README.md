@@ -319,9 +319,5 @@ If you are the original author and would like this removed, please contact me.
 - **Deep Equilibrium Models Community** - Foundational DEQ research
 - **PyTorch Team** - Exceptional deep learning framework
 - **Thesis Supervisor** - Invaluable guidance and feedback
-
- **1. Deep Equilibrium Architectures for Inverse Problems in Imaging**  
-*Davis Gilton, Gregory Ongie, Rebecca Willett (2021)*  
-**2. ⊥-loss: A Symmetric Loss Function for Complex-Valued Reconstruction**  
-*Maarten L. Terpstra et al. (2022)*  
+  
 ---
