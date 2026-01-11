@@ -297,7 +297,8 @@ This work builds upon open-source research from the signal processing and machin
 ## Code Attribution & Legal Notice
 
 This repository is based on the Deep Equilibrium framework by Gilton et al. (2021).
-The original codebase (networks/, operators/, solvers/, training/) is their work from which i was highly influenced.
+The original codebase (networks/, operators/, solvers/, training/) is built upon the implementation by Gilton et al. 
+The core solver and network architecture files are sourced, while the data loading pipelines, loss function implementations, and validation scripts were developed specifically for this thesis.
 
 **Original Repository:** https://github.com/dgilton/deep_equilibrium_inverse
 **Paper:** "Deep Equilibrium Architectures for Inverse Problems in Imaging"
